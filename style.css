@@ -81,4 +81,8 @@ footer {
     width: 90%;
     margin: 0 auto 20px;
   }
+
+  .main-box:last-child {
+    margin: 0 auto 20px;
+  }
 }
